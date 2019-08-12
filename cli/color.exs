@@ -1,3 +1,4 @@
+# Youtube Source (Dennis Beatty): https://www.youtube.com/watch?v=sN7Fy5pwOdE&t=1s
 defmodule Color do
   def green(text) do
     IO.ANSI.green() <> text <> IO.ANSI.reset()
