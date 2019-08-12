@@ -1,3 +1,4 @@
+# Youtube Source (Dennis Beatty): https://www.youtube.com/watch?v=_NXZJx1snkE
 defmodule Clock do
   def start do
     time_string = Time.utc_now()

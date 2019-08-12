@@ -1,3 +1,4 @@
+# Youtube Source (Dennis Beatty): https://www.youtube.com/watch?v=_NXZJx1snkE
 defmodule Progress do
   @rounding_precision 2
   @progress_bar_size 50
