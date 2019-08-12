@@ -1,4 +1,6 @@
-# LiveViewCounter
+# LiveViewCounter (Phoenix LiveView counter demo)
+
+Youtube Source (Dennis Beatty): https://www.youtube.com/watch?v=2bipVjOcvdI
 
 To start your Phoenix server:
 
