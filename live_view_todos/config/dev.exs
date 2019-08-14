@@ -52,7 +52,8 @@ config :live_view_todos, LiveViewTodosWeb.Endpoint,
       ~r{priv/static/.*(js|css|png|jpeg|jpg|gif|svg)$},
       ~r{priv/gettext/.*(po)$},
       ~r{lib/live_view_todos_web/views/.*(ex)$},
-      ~r{lib/live_view_todos_web/templates/.*(eex)$}
+      ~r{lib/live_view_todos_web/templates/.*(eex)$},
+      ~r{lib/live_view_todos_web/live/.*(ex)$}
     ]
   ]
 
